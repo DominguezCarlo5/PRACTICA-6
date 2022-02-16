@@ -1,0 +1,17 @@
+
+body{
+	background-color: #D3A3DF;
+	font-family: arial;
+	font-size: 20px;
+}
+
+div{
+	color: black;
+	padding: 20px 10px 20px 40px;
+	margin: 10px;
+	border: 2px solid orange;
+	background-color: #97D8F2;
+	border-radius: 25px;
+	box-shadow: 2px 2px 6px red;
+	border-style: dotted;
+}
